@@ -1,0 +1,12 @@
+@import '../style.css';
+
+.main-card {
+  width: 50%;
+  min-width: 200px;
+  height: 450px;
+}
+
+.main-card:hover {
+  transform: none;
+  cursor: var(--cursor-default);
+}
